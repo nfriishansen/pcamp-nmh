@@ -1,0 +1,8 @@
+1. SSH connect
+2. Hente ut informasjon
+3. Lagre informasjon til fil
+4. Hente ut variabel informasjon til fil
+5. Slette/Endre variabel informasjon, med verifikasjon til fil (log/verbose?)
+6. Splitte ut spørring til
+6a. host-fil
+6b. 
